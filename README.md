@@ -1,2 +1,2 @@
-# Blockchain-A-Z
-The blockchain project made for Blockchain A-Z Udemy Course
+# Blockchain
+Python code to create a sample block chain
